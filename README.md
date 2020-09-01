@@ -11,7 +11,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6112286/mr-mars?tab=profile)](https://stackoverflow.com/users/6112286/mr-mars?tab=profile)
 [![Discord](https://img.shields.io/discord/750491641495814304.svg?label=Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square&link=https://discord.gg/FR9R8dH)](https://discord.gg/FR9R8dH)
 
-Hi, I'm Borja Paz, a passionate self-taught software developer from Spain.
+> Hi, I'm Borja Paz, a passionate self-taught software developer from Spain.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=borjapazr&show_icons=true&theme=onedark&count_private=true)
 
