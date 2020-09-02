@@ -13,5 +13,3 @@
 <br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=borjapazr&show_icons=true&theme=onedark&count_private=true)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=borjapazr&repo=dotfiles&theme=onedark&show_owner=true)](https://github.com/borjapazr/dotfiles)
