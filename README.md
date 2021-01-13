@@ -11,3 +11,5 @@
 [![Discord](https://img.shields.io/discord/750491641495814304.svg?label=Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square&link=https://discord.gg/FR9R8dH)](https://discord.gg/FR9R8dH)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=borjapazr&show_icons=true&theme=onedark&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borjapazr&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
