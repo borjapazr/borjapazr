@@ -1,6 +1,8 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/borjapazr/borjapazr/issues)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=borjapazr.borjapazr)
 
+<img src="https://i.imgur.com/3N6HONL.png"/>
+
 ###  Hi there, I'm [Borja](https://twitter.com/borjapazr)! 👋
 
 > Hi, I'm Borja Paz, a passionate self-taught software developer from Spain.
