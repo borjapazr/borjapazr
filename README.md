@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋 I'm Borja 👨‍💻 <a href="#"><img src="https://badges.pufler.dev/visits/borjapazr/borjapazr"></a>
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm Borja 👨‍💻 <a href="#"><img src="https://badges.pufler.dev/visits/borjapazr/borjapazr"></a>
 </h1>
 
 <p align="center">
