@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Borja 👨‍💻
+  Hi there 👋 I'm Borja 👨‍💻 <a href="#"><img src="https://badges.pufler.dev/visits/borjapazr/borjapazr"></a>
 </h1>
 
 <p align='center'>
@@ -29,8 +29,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=borjapazr&show_icons=true&theme=onedark&count_private=true&include_all_commits=true" width="350"></a>
 </p>
 
-
-
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=https://github.com/borjapazr/borjapazr/issues)](https://github.com/borjapazr/borjapazr/issues)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=borjapazr.borjapazr)
+<p align='center'>
+  <a href="#"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=https://github.com/borjapazr/borjapazr/issues"></a>
+</p>
 
