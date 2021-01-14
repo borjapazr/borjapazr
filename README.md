@@ -3,9 +3,8 @@
 </h1>
 
 <p align='center'>
-  Hi, I'm Borja Paz, a passionate self-taught software developer from Spain.
+  📢 Hi, I'm <b>Borja Paz</b>, a passionate self-taught software developer from Spain.
 </p>
-
 
 <p align='center'>
   <a href="mailto:borjapazr@gmail.com">
@@ -30,6 +29,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=https://github.com/borjapazr/borjapazr/issues"></a>
+  <a href="https://github.com/borjapazr/borjapazr/issues">
+    <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=https://github.com/borjapazr/borjapazr/issues">
+  </a>
 </p>
 
