@@ -7,10 +7,10 @@
 
 > Hi, I'm Borja Paz, a passionate self-taught software developer from Spain.
 
-<a href="https://www.linkedin.com/in/borjapazr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:borjapazr@gmail.com)](mailto:borjapazr@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6112286/mr-mars?tab=profile)](https://stackoverflow.com/users/6112286/mr-mars?tab=profile)
-[![Discord](https://img.shields.io/discord/750491641495814304.svg?label=Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square&link=https://discord.gg/FR9R8dH)](https://discord.gg/FR9R8dH)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/borjapazr)](https://www.linkedin.com/in/borjapazr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:borjapazr@gmail.com)](mailto:borjapazr@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6112286/mr-mars?tab=profile)](https://stackoverflow.com/users/6112286/mr-mars?tab=profile)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/FR9R8dH)](https://discord.gg/FR9R8dH)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=borjapazr&show_icons=true&theme=onedark&count_private=true&include_all_commits=true)
 
