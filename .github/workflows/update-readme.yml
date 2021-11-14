@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README.md with recent activity
+    name: 🚀 Update this repo's README.md with recent activity
 
     steps:
       - name: ⬇️ Checkout project
