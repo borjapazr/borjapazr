@@ -57,6 +57,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/borjapazr/borjapazr/issues"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=https://github.com/borjapazr/borjapazr/issues"/></a>
+  <!--START_SECTION:activity-->
 </p>
 
+<p align="center">
+  <a href="https://github.com/borjapazr/borjapazr/issues"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=https://github.com/borjapazr/borjapazr/issues"/></a>
+</p>
