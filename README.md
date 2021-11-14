@@ -57,15 +57,5 @@
 </p>
 
 <p align="center">
-  <!--START_SECTION:activity-->
-1. 💪 Opened PR [#195](https://github.com/CodelyTV/dotly/pull/195) in [CodelyTV/dotly](https://github.com/CodelyTV/dotly)
-2. 💪 Opened PR [#194](https://github.com/CodelyTV/dotly/pull/194) in [CodelyTV/dotly](https://github.com/CodelyTV/dotly)
-3. 💪 Opened PR [#1](https://github.com/cmjagtap/Hyperledger-Fabric/pull/1) in [cmjagtap/Hyperledger-Fabric](https://github.com/cmjagtap/Hyperledger-Fabric)
-4. 🗣 Commented on [#739](https://github.com/typestack/routing-controllers/issues/739) in [typestack/routing-controllers](https://github.com/typestack/routing-controllers)
-5. 💪 Opened PR [#191](https://github.com/CodelyTV/dotly/pull/191) in [CodelyTV/dotly](https://github.com/CodelyTV/dotly)
-<!--END_SECTION:activity-->
-</p>
-
-<p align="center">
   <a href="https://github.com/borjapazr/borjapazr/issues"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=https://github.com/borjapazr/borjapazr/issues"/></a>
 </p>
