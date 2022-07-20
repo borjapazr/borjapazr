@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋 I'm Borja 👨‍💻 <a href="#"><img src="https://badges.pufler.dev/visits/borjapazr/borjapazr"></a>
+  Hi there 👋 I'm Borja 👨‍💻 <a href="#"><img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=borjapazr.visitors&color=55acb7&style=flat-square&logo=Github"></a>
 </h1>
 
 <p align="center">
