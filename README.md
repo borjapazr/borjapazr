@@ -48,6 +48,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 NodeJS + Ts.ED + TypeScript + Clean Architecture Template](https://dev.to/borjapazr/nodejs-tsed-typescript-clean-architecture-template-lhc)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
