@@ -44,9 +44,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=borjapazr&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="borjapazr" /></p>
 
-<br>
-
-### Blogs posts
+### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 - [🚀 NodeJS + Ts.ED + TypeScript + Clean Architecture Template](https://dev.to/borjapazr/nodejs-tsed-typescript-clean-architecture-template-lhc)
 <!-- BLOG-POST-LIST:END -->
