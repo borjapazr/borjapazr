@@ -12,7 +12,7 @@
 
 <p align="center">  </p>
 
-- 🔭 I’m currently working on [express-typescript-skeleton](https://github.com/borjapazr/express-typescript-skeleton)
+- 🔭 I’m currently working on [eureka](https://github.com/borjapazr/eureka)
 
 - 👯 Always looking to collaborate in **Open Source Projects**
 
