@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Borja Paz Rodríguez 👨‍💻</h1>
 <h3 align="center">📢 A passionate fullstack developer from Spain. I really like emojis, any problem? ✌️</h3>
 
-<p align="center"> <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=borjapazr.visitors&color=55acb7&style=for-the-badge&logo=Github" alt="borjapazr" /> 
-<a href="https://twitter.com/borjapazr" target="blank"><img src="https://img.shields.io/twitter/follow/borjapazr?logo=twitter&style=for-the-badge" alt="borjapazr" /></a></p>
-
 <p align="center">
+<a href="https://twitter.com/borjapazr" target="blank"><img src="https://img.shields.io/twitter/follow/borjapazr?logo=twitter&style=for-the-badge" alt="borjapazr" /></a>
   <a href="https://github.com/borjapazr/borjapazr/issues"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=https://github.com/borjapazr/borjapazr/issues"/></a>
 </p>
 
