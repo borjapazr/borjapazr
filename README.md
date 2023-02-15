@@ -2,7 +2,7 @@
 <h3 align="center">📢 A passionate fullstack developer from Spain. I really like emojis, any problem? ✌️</h3>
 
 <p align="center">
-<a href="https://twitter.com/borjapazr" target="blank"><img src="https://img.shields.io/twitter/follow/borjapazr?logo=twitter&style=for-the-badge" alt="borjapazr" /></a>
+<a href="https://twitter.com/borjapazr" target="blank"><img src="https://img.shields.io/badge/follow-%40borjapazr-1DA1F2?logo=twitter&style=for-the-badge" alt="borjapazr" /></a>
   <a href="https://github.com/borjapazr/borjapazr/issues"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=https://github.com/borjapazr/borjapazr/issues"/></a>
 </p>
 
